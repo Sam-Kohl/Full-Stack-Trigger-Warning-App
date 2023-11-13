@@ -1,3 +1,5 @@
+# NO LONGER WORKS due to public API discontinuation 
+
 # TriggerWarning
 
 A Full-Stack web application that utilizes Python/Django on the back end and Node/React on the front end allowing a Reddit subreddit moderator to remove multiple posts, comments, and comment replies that contain a specific, user given word or words at the same time.
